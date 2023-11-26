@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="App">
       <div className="contenedor-logo">
-        <img className="freecode-logo" src={logo} alt="log princiapl" />
+        <div className="logo">CALCULADORA BASICA</div>
       </div>
       <div className="contenedor-calculadora">
         <Pantalla valor={input} />
