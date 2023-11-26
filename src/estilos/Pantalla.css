@@ -1,0 +1,16 @@
+.contenedor-resultado{
+    width: 95%;
+    height: 75px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: #0a0a23;
+    color: white;
+    padding: 11px;
+    margin: 10px solid #888;
+    box-shadow: -1px 4px 1px 1px white;
+}
